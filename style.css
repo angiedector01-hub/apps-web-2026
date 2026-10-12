@@ -1,0 +1,17 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: #333;
+}
+
+h1 {
+    cursor: pointer;
+    color: #00796b;
+    transition: color 0.3s;
+}
+
+h1:hover {
+    color: #004d40;
+}
